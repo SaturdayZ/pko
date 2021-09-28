@@ -1,9 +1,9 @@
 [
 null,
 {"id":1,"expanded":true,"name":"真新鎮","order":2,"parentId":2,"scrollX":1092,"scrollY":604.6666666666666},
-{"id":2,"expanded":true,"name":"世界地圖","order":1,"parentId":0,"scrollX":1318.6666666666667,"scrollY":1760.6666666666667},
+{"id":2,"expanded":true,"name":"世界地圖","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":594},
 {"id":3,"expanded":true,"name":"萬磁之都","order":7,"parentId":2,"scrollX":1216,"scrollY":846},
-{"id":4,"expanded":false,"name":"密語森林","order":13,"parentId":2,"scrollX":1216,"scrollY":846},
+{"id":4,"expanded":false,"name":"密語森林","order":13,"parentId":2,"scrollX":1318.6666666666667,"scrollY":788.6666666666666},
 {"id":5,"expanded":true,"name":"晴空鎮","order":14,"parentId":2,"scrollX":2162.6666666666665,"scrollY":788.6666666666666},
 {"id":6,"expanded":false,"name":"冰雪城","order":25,"parentId":2,"scrollX":1092,"scrollY":604.6666666666666},
 {"id":7,"expanded":true,"name":"居民房01","order":3,"parentId":1,"scrollX":1092,"scrollY":604.6666666666666},
