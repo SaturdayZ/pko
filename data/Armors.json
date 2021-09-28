@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"atypeId":0,"description":"傳聞是滅Ｘ用過手套，不過能量已幾乎耗盡，\n僅剩唯一一次使用機會，可以讓攻擊翻倍","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":143,"name":"無限手套","note":"","params":[0,0,0,0,0,0,0,0],"price":300},
+{"id":2,"atypeId":1,"description":"晶瑩剔透的表面，可以反射一次攻擊，轉給特定的對象","etypeId":3,"traits":[],"iconIndex":130,"name":"遊俠風帽","note":"","params":[0,0,0,0,0,0,0,0],"price":300},
+{"id":3,"atypeId":1,"description":"阻擋來自\"數字1\"的攻擊","etypeId":4,"traits":[],"iconIndex":135,"name":"神奇披風","note":"","params":[0,0,0,0,0,0,0,0],"price":300},
+{"id":4,"atypeId":1,"description":"可以阻擋一次攻擊","etypeId":5,"traits":[],"iconIndex":145,"name":"防護戒指","note":"","params":[0,0,0,0,10,0,0,0],"price":300}
+]

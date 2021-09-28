@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":121,"indent":0,"parameters":[21,21,0]},{"code":0,"indent":0,"parameters":[]}],"name":"父親的信","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":121,"indent":0,"parameters":[23,23,0]},{"code":0,"indent":0,"parameters":[]}],"name":"傳送石","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":129,"indent":0,"parameters":[9,0,false]},{"code":129,"indent":0,"parameters":[3,1,false]},{"code":129,"indent":0,"parameters":[4,1,false]},{"code":129,"indent":0,"parameters":[5,1,false]},{"code":129,"indent":0,"parameters":[6,1,false]},{"code":129,"indent":0,"parameters":[7,1,false]},{"code":129,"indent":0,"parameters":[8,1,false]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["变成梦幻了"]},{"code":0,"indent":0,"parameters":[]}],"name":"变身药水","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]

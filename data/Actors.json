@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"哈羅德","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"POKE","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"poke","traits":[],"initialLevel":1,"maxLevel":99,"name":"皮卡丘","nickname":"皮卡丘","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":5,"characterName":"POKE","classId":3,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"poke","traits":[],"initialLevel":1,"maxLevel":99,"name":"小火龍","nickname":"小火龍","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":1,"characterName":"POKE","classId":4,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"poke","traits":[],"initialLevel":1,"maxLevel":99,"name":"妙蛙種子","nickname":"妙蛙種子","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":4,"characterName":"POKE","classId":5,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"poke","traits":[],"initialLevel":1,"maxLevel":99,"name":"保姆曼波","nickname":"保姆曼波","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":6,"characterName":"POKE","classId":6,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"poke","traits":[],"initialLevel":1,"maxLevel":99,"name":"可達鴨","nickname":"可達鴨","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":3,"characterName":"POKE","classId":7,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"poke","traits":[],"initialLevel":1,"maxLevel":99,"name":"波波","nickname":"波波","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":2,"characterName":"POKE","classId":8,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"poke","traits":[],"initialLevel":1,"maxLevel":99,"name":"傑尼龜","nickname":"傑尼龜","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":7,"characterName":"POKE","classId":9,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"poke","traits":[],"initialLevel":1,"maxLevel":99,"name":"夢幻","nickname":"夢幻","note":"","profile":""}
+]
